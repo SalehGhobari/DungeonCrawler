@@ -1,5 +1,5 @@
 #Setting the minimum cmake version (I currently have 3.31.5)
-cmake_minimum_required(VERSION 3.31)
+cmake_minimum_required(VERSION 3.28)
 
 #Use the c++17 standard and make it required
 set(CMAKE_CXX_STANDARD 17)
