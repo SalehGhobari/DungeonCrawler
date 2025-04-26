@@ -1,0 +1,3 @@
+C:/Users/GIGABYT/Desktop/testomar/DungeonCrawler/build/CMakeFiles/DungeonCrawler.dir
+C:/Users/GIGABYT/Desktop/testomar/DungeonCrawler/build/CMakeFiles/edit_cache.dir
+C:/Users/GIGABYT/Desktop/testomar/DungeonCrawler/build/CMakeFiles/rebuild_cache.dir

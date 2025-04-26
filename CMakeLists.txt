@@ -1,6 +1,6 @@
 #Setting the minimum cmake version (I currently have 3.31.5)
 cmake_minimum_required(VERSION 3.28)
-
+set(CMAKE_CXX_COMPILER "C:/msys64/ucrt64/bin/g++.exe")
 #Use the c++17 standard and make it required
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)

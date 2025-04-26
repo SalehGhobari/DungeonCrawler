@@ -7,6 +7,7 @@ int main(void)
 {
     // Initialization
     //--------------------------------------------------------------------------------------
+    int omar = 5;
     const int screenWidth = 800;
     const int screenHeight = 450;
 
