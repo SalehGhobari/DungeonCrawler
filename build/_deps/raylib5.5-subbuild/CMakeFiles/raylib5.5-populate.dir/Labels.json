@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/CMakeFiles/raylib5.5-populate"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/CMakeFiles/raylib5.5-populate"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/CMakeFiles/raylib5.5-populate.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/CMakeFiles/raylib5.5-populate.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/CMakeFiles/raylib5.5-populate-complete.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/CMakeFiles/raylib5.5-populate-complete.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-build.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-build.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-configure.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-configure.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-download.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-download.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-install.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-install.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-mkdir.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-mkdir.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-patch.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-patch.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-test.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-test.rule"
 		},
 		{
-			"file" : "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-update.rule"
+			"file" : "C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/src/raylib5.5-populate-stamp/raylib5.5-populate-update.rule"
 		}
 	],
 	"target" : 

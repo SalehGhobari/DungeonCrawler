@@ -1,14 +1,14 @@
-if(NOT EXISTS "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: /mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/install_manifest.txt")
+if(NOT EXISTS "C:/Users/Saleh/Desktop/DungeonCrawler/build/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: C:/Users/Saleh/Desktop/DungeonCrawler/build/install_manifest.txt")
 endif()
 
-file(READ "/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/install_manifest.txt" files)
+file(READ "C:/Users/Saleh/Desktop/DungeonCrawler/build/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 foreach(file ${files})
   message(STATUS "Uninstalling $ENV{DESTDIR}${file}")
   if(IS_SYMLINK "$ENV{DESTDIR}${file}" OR EXISTS "$ENV{DESTDIR}${file}")
     exec_program(
-      "/usr/bin/cmake" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
+      "C:/mingw64/bin/cmake.exe" ARGS "-E remove \"$ENV{DESTDIR}${file}\""
       OUTPUT_VARIABLE rm_out
       RETURN_VALUE rm_retval
       )

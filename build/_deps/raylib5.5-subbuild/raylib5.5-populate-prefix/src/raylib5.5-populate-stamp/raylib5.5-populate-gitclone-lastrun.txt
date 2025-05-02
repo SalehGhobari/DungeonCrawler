@@ -3,13 +3,13 @@
 # No other meaning or use of this file is supported.
 
 method=git
-command=/usr/bin/cmake;-P;/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/tmp/raylib5.5-populate-gitclone.cmake
-source_dir=/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-src
-work_dir=/mnt/c/Users/Saleh/Desktop/DungeonCrawler/build/_deps
+command=C:/mingw64/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-subbuild/raylib5.5-populate-prefix/tmp/raylib5.5-populate-gitclone.cmake
+source_dir=C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps/raylib5.5-src
+work_dir=C:/Users/Saleh/Desktop/DungeonCrawler/build/_deps
 repository=https://github.com/raysan5/raylib
 remote=origin
 init_submodules=TRUE
 recurse_submodules=--recursive
 submodules=
 CMP0097=NEW
-
+      
