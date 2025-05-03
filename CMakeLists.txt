@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 #define a variable for the src directory variables are used via ${varname}
 set(SRC_DIR ${CMAKE_SOURCE_DIR}/src)
+file(GLOB SRC_FILES "${SRC_DIR}/*.cpp")
 set(INC_DIR ${CMAKE_SOURCE_DIR}/include)
 
 
@@ -29,9 +30,9 @@ FetchContent_MakeAvailable(Raylib5.5)
 include_directories(${INC_DIR})
 
 
-add_executable(${PROJECT_NAME} ${SRC_DIR}/main.cpp)
+add_executable(${PROJECT_NAME} ${SRC_FILES})
 
-#include winmm and raylib 
+#include and raylib 
 target_link_libraries(${PROJECT_NAME} raylib)
 
 if (UNIX)
